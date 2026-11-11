@@ -6,9 +6,14 @@
 }
 
 h1{
-    background-color: purple;
+    background-color: rgb(14, 14, 158);
+    padding: 20px;
+    color: white;
 }
 
 h2{
-    background-color: green;
+    background-color: rgb(2, 75, 2);
+    padding: 20px;
+    color: yellow;
 }
+
